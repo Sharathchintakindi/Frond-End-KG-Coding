@@ -1,0 +1,13 @@
+.Kg-item {
+  background-color: white;
+}
+
+.Kg-Span{
+  font-weight: 500; 
+  color: brown;
+  font-size: 20px;
+}
+
+.button{
+float: right;
+}
