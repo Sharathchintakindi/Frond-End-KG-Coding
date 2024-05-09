@@ -37,9 +37,7 @@ function AddtoDo({ onNewItem }) {
             type="button "
             className="btn btn-success kg-button"
             onClick={handleAddButtonClicked}
-          >
-            Add
-          </button>
+          ></button>
         </div>
       </div>
     </div>
