@@ -1,7 +1,6 @@
 import styles from "./item.module.css";
 
 const Item = ({ foodItem, handleBuyButton }) => {
-  
   // Already Used but for change its commenting
   // const handleBuyButtonClicked = (event) => {
   //   console.log(event);

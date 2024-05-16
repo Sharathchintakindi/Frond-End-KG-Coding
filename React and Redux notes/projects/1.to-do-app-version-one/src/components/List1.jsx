@@ -15,4 +15,3 @@ function List1() {
 }
 
 export default List1;
-

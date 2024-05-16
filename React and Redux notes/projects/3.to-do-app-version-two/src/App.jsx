@@ -12,7 +12,6 @@ function App() {
 
     { name: "Like this video", dueDate: "right now...!" },
     { name: "React totorial", dueDate: "right now...!" },
-
   ];
   return (
     <center className="todo-container">
@@ -25,3 +24,4 @@ function App() {
 }
 
 export default App;
+

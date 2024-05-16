@@ -3,7 +3,7 @@ import "./App.css";
 
 let App = () => {
   //let foodItems = [];
-   let foodItems = ["Chicken", "Egg", "Mutton", "Prawns"];
+  let foodItems = ["Chicken", "Egg", "Mutton", "Prawns"];
   let emptyMessage = foodItems.length === 0 ? <h3>Iam hungry</h3> : null; // if (foodItems.length ===0){
   //   return <h3>Iam hungry</h3>
   // }
@@ -24,3 +24,4 @@ let App = () => {
 };
 
 export default App;
+

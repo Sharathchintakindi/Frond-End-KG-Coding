@@ -8,7 +8,7 @@ const ListNew1 = () => {
   return (
     <div className={styles.itemsContainer}>
       {todoItems.map((item) => (
-        <ListNew key ={item.name} todoName={item.name} todoDate={item.dueDate} />
+        <ListNew key={item.name} todoName={item.name} todoDate={item.dueDate} />
       ))}
     </div>
   );
